@@ -8,11 +8,11 @@ header{
 }
 
 header a{
-	background-image: url("../images/logo\\(1\).png");
+	background-image: url("../images/logo\ \(1\).png");
 	background-repeat: no-repeat;
 	background-position: center;
 	display: block;
-	width: 150px;
+	width: 142px;
 	height: 60px;
 	margin-left: 20px;
 }
